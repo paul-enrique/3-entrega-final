@@ -1,0 +1,24 @@
+En los archivos html sumé el SEO con las siguientes características:
+●
+Descripción: Mediante la etiqueta meta name description, agregué el siguiente
+párrafo que explica el contenido de mi sitio:
+● Index:
+“Página oficial de flexo arquitectura y urbanismo, casas, construccion, puerto morelos, diseño, arquitectos, constructores"
+● Oficina:
+“Oficinas de flexo arquitectura, puerto morelos, arquitectos, construccion, oficinas obra"
+● Sobre nosotros:
+“historia de flexo, arquitecto paul lopez, obras y trayectoria!"
+● Proyectos:
+“Proyectos de flexo arquitectura y urbanismo, casas, construccion, puerto morelos, diseño, arquitectos, constructores"
+● Contacto:
+“Presupuesto y contacto, correo, numero de telefono, obra, diseño"
+● Palabras clave: Mediante la etiqueta meta name keywords, agregué las palabras
+clave que acompañarán a todas las páginas de mi sitio: "arquitecto, construccion, obra, puerto morelos, diseño, casas, presupuesto"
+● Encabezado: para los encabezado del h1 utilicé el texto que mejor describe en
+general el contenido de cada página, empezando por el index con el nombre del
+proyecto “FLEXO” y la principal descripción de cada página web.
+● Organización: La organización de cada página y archivo del proyecto está
+optimizada para una fácil navegación.
+● Sitemap para buscadores: Se generó un archivo XML mediante la página
+xml-sitemaps.
+ok

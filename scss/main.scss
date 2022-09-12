@@ -1,0 +1,383 @@
+@import "./secciones/bootstrap";
+@import "./secciones/body";
+@import "./secciones/header";
+@import "./secciones/footer";
+@import "./secciones/bootstrap";
+
+/* reset */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+}
+
+/* header */
+header {
+  background: linear-gradient(to right, #222222 0%, #000000 100%);
+  header h1 {
+    padding: 15px 2px;
+  }
+
+  header h1 a:hover {
+    @extend header;
+    background-color: #105c3c;
+    color: rgb(104, 255, 66);
+    font-weight: bolder;
+    width: 100%;
+    height: 100%;
+    animation: pulse 5s infinite;
+  }
+  a {
+    @extend header;
+    text-decoration: none;
+    color: #79f569;
+    font-size: 1.9em;
+    font-weight: bold;
+    font-family: "Montserrat", sans-serif;
+  }
+
+  .headerGrid {
+    @mixin header {
+      width: 100%;
+      height: 100%;
+    }
+    grid-area: headerGrid;
+  }
+}
+
+.navBar {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+}
+
+nav {
+  @extend nav;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  padding-bottom: 10px;
+}
+
+nav ul li {
+  @extend nav;
+  list-style: none;
+}
+
+nav a {
+  @extend nav;
+  text-decoration: none;
+  color: #f3f7f2;
+  padding: 5px 12px;
+  font-weight: bold;
+  display: inline-block;
+}
+
+/* main */
+main {
+  background: linear-gradient(to right, #000000 0%, #166d3b 100%);
+  background: radial-gradient(
+    left,
+    rgba(124, 122, 122, 0.182) 1%,
+    rgb(0, 0, 0) 95%
+  );
+}
+
+.mainGrid {
+  @mixin main {
+    width: 100%;
+    height: 100%;
+  }
+  grid-area: mainGrid;
+}
+
+main h2 {
+  @extend main;
+  text-align: center;
+  font-weight: bold;
+  font-size: 21px;
+  margin-top: 15px;
+  margin-bottom: 15px;
+  color: #79f569;
+}
+
+.casaDecoration {
+  font-size: 20px;
+  padding-top: 55px;
+  padding-bottom: 20px;
+  color: #ffffff;
+  font-weight: bold;
+  text-align: center;
+}
+
+img {
+  max-height: 100%;
+  max-width: 100%;
+}
+
+.casaDecorationText {
+  padding: 13px;
+  color: #ffffff;
+}
+
+.oficinasForm {
+  margin: 9px;
+  color: #ffffff;
+}
+
+.oficinasMap {
+  width: 100%;
+  margin: 9px;
+  color: #ffffff;
+}
+
+.nosotrosTitulo {
+  text-align: center;
+}
+
+.whatsapp {
+  color: #3f8f35;
+  font-size: 100px;
+}
+
+/* footer */
+.footerGrid {
+  @mixin footer { 
+    width: 100%;
+    height: 100%;
+  }
+  color: #79f569;
+  font-size: small;
+  grid-area: footerGrid;
+  text-align: center;
+  padding-top: 20px;
+  padding-bottom: 15px;
+  text-decoration: none;
+}
+    
+  
+
+.formulario {
+  display: flex;
+  width: auto;
+  justify-content: center;
+  padding: 50px;
+  color: #ffffff;
+}
+
+/* media querie tablet */
+@media only screen and (min-width: 600px) {
+  .contBody {
+    display: grid;
+    grid-template-areas:
+      "headerGrid headerGrid"
+      "mainGrid mainGrid"
+      "footerGrid footerGrid";
+  }
+
+  .contBodyNosotros {
+    display: grid;
+    grid-template-areas:
+      "headerGrid"
+      "mainGridNosotros"
+      "footerGrid";
+  }
+
+  /* header */
+  .navBar {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+  }
+
+  header h1 a {
+    font-size: 1em;
+  }
+
+  nav {
+    display: flex;
+    flex-direction: row;
+    padding-bottom: 0;
+  }
+
+  nav ul {
+    @extend nav;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+  }
+
+  nav a {
+    @extend nav;
+    font-size: 15px;
+  }
+
+  /* main */
+  .mainGrid {
+    color: #f3f7f2;
+    display: grid;
+    grid-template-areas:
+      "h2 h2"
+      "casa1 casa1Img"
+      "casa1Text casa1Img"
+      "casa2Img casa2"
+      "casa2Img casa2Text";
+  }
+
+  h2 {
+    padding-bottom: 30px;
+  }
+
+  .h2 {
+    grid-area: h2;
+  }
+
+  .casa1 {
+    grid-area: casa1;
+  }
+
+  p .casa1 {
+    display: flex;
+  }
+
+  .casaDecoration {
+    padding-top: 0;
+    padding-bottom: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .casaDecorationImg {
+    height: 300px;
+    padding: 9px;
+    margin-left: 20px;
+    display: flex;
+    justify-content: center;
+  }
+
+  .casa1Img {
+    grid-area: casa1Img;
+  }
+
+  .casa1Text {
+    grid-area: casa1Text;
+  }
+
+  .casa2 {
+    grid-area: casa2;
+  }
+
+  .casa2Img {
+    grid-area: casa2Img;
+  }
+
+  .casa2Text {
+    grid-area: casa2Text;
+  }
+
+  .comienzo {
+    grid-area: comienzo;
+  }
+
+  .objetivo {
+    grid-area: objetivo;
+  }
+
+  .nosotrosComienzo {
+    
+    color: #f3f7f2;
+  }
+
+  .nosotrosComienzoText {
+    @extend .nosotrosComienzo;
+    
+  }
+
+  .nosotrosObjetivo {
+    @extend .nosotrosComienzo;
+    
+  }
+
+  .nosotrosObjetivoText  {
+    @extend .nosotrosComienzo;
+    
+  }
+  
+  .formulario {
+    display: flex;
+    width: auto;
+    justify-content: center;
+    padding: 50px;
+    color: #ffffff;
+  }
+}
+
+/* media querie desktop */
+@media only screen and (min-width: 1024px) {
+  /* header */
+  header h1 a {
+    font-size: 50px;
+  }
+
+  ul li a {
+    font-size: 25px;
+  }
+
+  /* main */
+  .h2 {
+    font-size: 40px;
+  }
+
+  .casaDecoration {
+    font-size: 30px;
+  }
+
+  .casaDecorationText {
+    font-size: 20px;
+  }
+
+  .formulario {
+    display: flex;
+    width: auto;
+    padding: 0px;
+    justify-content: center;
+    padding: 50px;
+    color: #ffffff;
+  }
+}
+.card text-center {
+  background-color: #000000;
+}
+
+.botones {
+  color: #79f569;
+  background-color: #166d3b;
+  color: #000000;
+}
+
+.fa-1x {
+  font-size: 1.5rem;
+  background-color: black;
+}
+.navbar-toggler.toggler-example {
+  background-color: #000000;
+  cursor: pointer;
+}
+.dark-blue-text {
+  color: #11a118;
+}
+.dark-pink-text {
+  color: #ac003a;
+}
+.dark-amber-text {
+  color: #ff6f00;
+}
+.dark-teal-text {
+  color: #004d40;
+}
+
+.hamBar {
+  background: linear-gradient(to right, #181717 0%, #000000 100%);
+}

@@ -1,0 +1,407 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://github.com/paul-enrique/sass</loc>
+  <lastmod>2022-09-07T00:24:50+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://github.com/paul-enrique/sass/issues</loc>
+  <lastmod>2022-09-07T00:24:50+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/paul-enrique/sass/pulls</loc>
+  <lastmod>2022-09-07T00:24:50+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/paul-enrique/sass/actions</loc>
+  <lastmod>2022-09-07T00:24:50+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/paul-enrique/sass/projects</loc>
+  <lastmod>2022-09-07T00:24:50+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/paul-enrique/sass/security</loc>
+  <lastmod>2022-09-07T00:24:50+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/paul-enrique/sass/blob/main/README.md</loc>
+  <lastmod>2022-09-07T00:24:50+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/paul-enrique/sass/blob/main/index.html</loc>
+  <lastmod>2022-09-07T00:24:50+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/paul-enrique/sass/blob/main/package-lock.json</loc>
+  <lastmod>2022-09-07T00:24:50+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/paul-enrique/sass/blob/main/package.json</loc>
+  <lastmod>2022-09-07T00:24:50+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/paul-enrique/sass/releases</loc>
+  <lastmod>2022-09-07T00:24:50+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/paul-enrique/sass/labels</loc>
+  <lastmod>2022-09-07T00:24:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/paul-enrique/sass/milestones</loc>
+  <lastmod>2022-09-07T00:24:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/paul-enrique/sass/compare</loc>
+  <lastmod>2022-09-07T00:24:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/paul-enrique/sass/projects?type=classic</loc>
+  <lastmod>2022-09-07T00:24:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/paul-enrique/sass/security/policy</loc>
+  <lastmod>2022-09-07T00:24:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/paul-enrique/sass/security/advisories</loc>
+  <lastmod>2022-09-07T00:24:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/paul-enrique/sass/blob/37980d8c1c0fe30a02302dcb83383edb00377fe6/README.md</loc>
+  <lastmod>2022-09-07T00:24:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/paul-enrique/sass/find/main</loc>
+  <lastmod>2022-09-07T00:24:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/paul-enrique/sass/blob/main/README.md?plain=1</loc>
+  <lastmod>2022-09-07T00:24:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/paul-enrique/sass/blob/37980d8c1c0fe30a02302dcb83383edb00377fe6/index.html</loc>
+  <lastmod>2022-09-07T00:24:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/paul-enrique/sass/blob/37980d8c1c0fe30a02302dcb83383edb00377fe6/package-lock.json</loc>
+  <lastmod>2022-09-07T00:24:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/paul-enrique/sass/blob/37980d8c1c0fe30a02302dcb83383edb00377fe6/package.json</loc>
+  <lastmod>2022-09-07T00:24:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/paul-enrique/sass/labels?sort=name-asc</loc>
+  <lastmod>2022-09-07T00:24:50+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/paul-enrique/sass/labels?sort=name-desc</loc>
+  <lastmod>2022-09-07T00:24:50+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/paul-enrique/sass/labels?sort=count-desc</loc>
+  <lastmod>2022-09-07T00:24:50+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/paul-enrique/sass/labels?sort=count-asc</loc>
+  <lastmod>2022-09-07T00:24:50+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/paul-enrique/sass/labels/bug</loc>
+  <lastmod>2022-09-07T00:24:50+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/paul-enrique/sass/labels/documentation</loc>
+  <lastmod>2022-09-07T00:24:50+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/paul-enrique/sass/labels/duplicate</loc>
+  <lastmod>2022-09-07T00:24:50+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/paul-enrique/sass/labels/enhancement</loc>
+  <lastmod>2022-09-07T00:24:50+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/paul-enrique/sass/labels/good%20first%20issue</loc>
+  <lastmod>2022-09-07T00:24:50+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/paul-enrique/sass/labels/help%20wanted</loc>
+  <lastmod>2022-09-07T00:24:50+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/paul-enrique/sass/labels/invalid</loc>
+  <lastmod>2022-09-07T00:24:50+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/paul-enrique/sass/labels/question</loc>
+  <lastmod>2022-09-07T00:24:50+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/paul-enrique/sass/labels/wontfix</loc>
+  <lastmod>2022-09-07T00:24:50+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/paul-enrique/sass/milestones?state=open</loc>
+  <lastmod>2022-09-07T00:24:50+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/paul-enrique/sass/milestones?state=closed</loc>
+  <lastmod>2022-09-07T00:24:50+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/paul-enrique/sass/milestones?direction=desc&amp;sort=due_date&amp;state=open</loc>
+  <lastmod>2022-09-07T00:24:50+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/paul-enrique/sass/milestones?direction=asc&amp;sort=due_date&amp;state=open</loc>
+  <lastmod>2022-09-07T00:24:50+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/paul-enrique/sass/milestones?direction=asc&amp;sort=completeness&amp;state=open</loc>
+  <lastmod>2022-09-07T00:24:50+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/paul-enrique/sass/milestones?direction=desc&amp;sort=completeness&amp;state=open</loc>
+  <lastmod>2022-09-07T00:24:50+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/paul-enrique/sass/milestones?direction=asc&amp;sort=title&amp;state=open</loc>
+  <lastmod>2022-09-07T00:24:50+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/paul-enrique/sass/milestones?direction=desc&amp;sort=title&amp;state=open</loc>
+  <lastmod>2022-09-07T00:24:50+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/paul-enrique/sass/milestones?direction=desc&amp;sort=count&amp;state=open</loc>
+  <lastmod>2022-09-07T00:24:50+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/paul-enrique/sass/milestones?direction=asc&amp;sort=count&amp;state=open</loc>
+  <lastmod>2022-09-07T00:24:50+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/paul-enrique/sass/projects?query=is%3Aopen&amp;type=classic</loc>
+  <lastmod>2022-09-07T00:24:50+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/paul-enrique/sass/projects?query=is%3Aclosed&amp;type=classic</loc>
+  <lastmod>2022-09-07T00:24:50+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/paul-enrique/sass/projects?query=is%3Aopen+sort%3Acreated-asc&amp;type=classic</loc>
+  <lastmod>2022-09-07T00:24:50+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/paul-enrique/sass/projects?query=is%3Aopen+sort%3Aupdated-desc&amp;type=classic</loc>
+  <lastmod>2022-09-07T00:24:50+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/paul-enrique/sass/projects?query=is%3Aopen+sort%3Aupdated-asc&amp;type=classic</loc>
+  <lastmod>2022-09-07T00:24:50+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/paul-enrique/sass/projects?query=is%3Aopen+sort%3Aname-asc&amp;type=classic</loc>
+  <lastmod>2022-09-07T00:24:50+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/paul-enrique/sass/security/advisories?state=published</loc>
+  <lastmod>2022-09-07T00:24:50+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/paul-enrique/sass/find/37980d8c1c0fe30a02302dcb83383edb00377fe6</loc>
+  <lastmod>2022-09-07T00:24:50+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/paul-enrique/sass/blob/37980d8c1c0fe30a02302dcb83383edb00377fe6/README.md?plain=1</loc>
+  <lastmod>2022-09-07T00:24:50+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/paul-enrique/sass/milestones?direction=desc&amp;sort=due_date&amp;state=closed</loc>
+  <lastmod>2022-09-07T00:24:50+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/paul-enrique/sass/milestones?direction=asc&amp;sort=due_date&amp;state=closed</loc>
+  <lastmod>2022-09-07T00:24:50+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/paul-enrique/sass/milestones?direction=asc&amp;sort=completeness&amp;state=closed</loc>
+  <lastmod>2022-09-07T00:24:50+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/paul-enrique/sass/milestones?direction=desc&amp;sort=completeness&amp;state=closed</loc>
+  <lastmod>2022-09-07T00:24:50+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/paul-enrique/sass/milestones?direction=asc&amp;sort=title&amp;state=closed</loc>
+  <lastmod>2022-09-07T00:24:50+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/paul-enrique/sass/milestones?direction=desc&amp;sort=title&amp;state=closed</loc>
+  <lastmod>2022-09-07T00:24:50+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/paul-enrique/sass/milestones?direction=desc&amp;sort=count&amp;state=closed</loc>
+  <lastmod>2022-09-07T00:24:50+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/paul-enrique/sass/milestones?direction=asc&amp;sort=count&amp;state=closed</loc>
+  <lastmod>2022-09-07T00:24:50+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/paul-enrique/sass/projects?query=is%3Aclosed+sort%3Acreated-asc&amp;type=classic</loc>
+  <lastmod>2022-09-07T00:24:50+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/paul-enrique/sass/projects?query=is%3Aclosed+sort%3Aupdated-desc&amp;type=classic</loc>
+  <lastmod>2022-09-07T00:24:50+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/paul-enrique/sass/projects?query=is%3Aclosed+sort%3Aupdated-asc&amp;type=classic</loc>
+  <lastmod>2022-09-07T00:24:50+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/paul-enrique/sass/projects?query=is%3Aclosed+sort%3Aname-asc&amp;type=classic</loc>
+  <lastmod>2022-09-07T00:24:50+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/paul-enrique/sass/projects?query=sort%3Acreated-asc+is%3Aopen&amp;type=classic</loc>
+  <lastmod>2022-09-07T00:24:50+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/paul-enrique/sass/projects?query=sort%3Acreated-asc+is%3Aclosed&amp;type=classic</loc>
+  <lastmod>2022-09-07T00:24:50+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/paul-enrique/sass/projects?query=is%3Aopen+sort%3Acreated-desc&amp;type=classic</loc>
+  <lastmod>2022-09-07T00:24:50+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/paul-enrique/sass/projects?query=sort%3Aupdated-desc+is%3Aopen&amp;type=classic</loc>
+  <lastmod>2022-09-07T00:24:50+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/paul-enrique/sass/projects?query=sort%3Aupdated-desc+is%3Aclosed&amp;type=classic</loc>
+  <lastmod>2022-09-07T00:24:50+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/paul-enrique/sass/projects?query=sort%3Aupdated-asc+is%3Aopen&amp;type=classic</loc>
+  <lastmod>2022-09-07T00:24:50+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/paul-enrique/sass/projects?query=sort%3Aupdated-asc+is%3Aclosed&amp;type=classic</loc>
+  <lastmod>2022-09-07T00:24:50+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/paul-enrique/sass/projects?query=sort%3Aname-asc+is%3Aopen&amp;type=classic</loc>
+  <lastmod>2022-09-07T00:24:50+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/paul-enrique/sass/projects?query=sort%3Aname-asc+is%3Aclosed&amp;type=classic</loc>
+  <lastmod>2022-09-07T00:24:50+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/paul-enrique/sass/projects?query=is%3Aclosed+sort%3Acreated-desc&amp;type=classic</loc>
+  <lastmod>2022-09-07T00:24:50+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://github.com/paul-enrique/sass/projects?query=sort%3Acreated-desc+is%3Aopen&amp;type=classic</loc>
+  <lastmod>2022-09-07T00:24:50+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://github.com/paul-enrique/sass/projects?query=sort%3Acreated-desc+is%3Aclosed&amp;type=classic</loc>
+  <lastmod>2022-09-07T00:24:50+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+
+
+</urlset>

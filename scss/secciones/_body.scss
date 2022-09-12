@@ -1,0 +1,16 @@
+
+
+
+/* mobile first */
+
+body{
+    font-family: 'Montserrat', sans-serif;
+    .contBody{
+        display: grid;
+        grid-template-areas: "headerGrid"
+                             "mainGrid"
+                             "footerGrid";
+        align-items: center;
+    }
+    
+}
