@@ -71,41 +71,120 @@
     </header> <!-- fin s-header -->
 
 
-    <!-- Home Inicio -->
-    
-    <section id="home" class="s-home target-section" data-parallax="scroll" data-image-src="images/casa1.jpg"
-        data-natural-width=3000 data-natural-height=2000 data-position-y=center>
+<!-- contact
+    ================================================== -->
+    <section id="contact" class="s-contact">
 
         <div class="overlay"></div>
-        <div class="shadow-overlay"></div>
+        <div class="contact__line"></div>
 
-        <div class="home-content">
+        <div class="row section-header" data-aos="fade-up">
+            <div class="col-full">
+                <h3 class="subhead">Contactanos</h3>
+                <h1 class="display-2 display-2--light">Mandanos un mensaje acerca de tu proyecto o cotización</h1>
+            </div>
+        </div>
 
-            <div class="row home-content__main">
+        <div class="row contact-content" data-aos="fade-up">
 
-                <h3>Bienvenido a flexo</h3>
+            <div class="contact-primary">
 
-                <h1>
-                    Diseñando y construyendo <br>
-                    espacios que brindan<br>
-                    bienestar y felicidad<br>
-                    en el caribe mexicano<br>
+                <h3 class="h6">Mandanos un mensaje</h3>
 
-                </h1>
+                <form name="contactForm" id="contactForm" method="post" action="" novalidate="novalidate">
+                    <fieldset>
 
-                <div class="home-content__buttons">
-                    <a href="./contact.html" class="btn btn--stroke">
-                        Tu proyecto
-                    </a>
-                    <a href="./about.html" class=" btn btn--stroke">
-                        Nosotros
-                    </a>
+                        <div class="form-field">
+                            <input name="contactName" type="text" id="contactName" placeholder="Nombre" value=""
+                                minlength="2" required="" aria-required="true" class="full-width">
+                        </div>
+                        <div class="form-field">
+                            <input name="contactEmail" type="email" id="contactEmail" placeholder="Correo Electronico"
+                                value="" required="" aria-required="true" class="full-width">
+                        </div>
+                        <div class="form-field">
+                            <input name="contactSubject" type="text" id="contactSubject" placeholder="Titulo" value=""
+                                class="full-width">
+                        </div>
+                        <div class="form-field">
+                            <textarea name="contactMessage" id="contactMessage" placeholder="Mensaje" rows="10"
+                                cols="50" required="" aria-required="true" class="full-width"></textarea>
+                        </div>
+                        <div class="form-field">
+                            <button class="full-width btn--primary">Enviar</button>
+                            <div class="submit-loader">
+                                <div class="text-loader">Enviando...</div>
+                                <div class="s-loader">
+                                    <div class="bounce1"></div>
+                                    <div class="bounce2"></div>
+                                    <div class="bounce3"></div>
+                                </div>
+                            </div>
+                        </div>
+
+                    </fieldset>
+                </form>
+
+                <!-- contact-warning -->
+                <div class="message-warning">
+                    Algo salio mal, intenta de nuevo
                 </div>
 
-            </div>
+                <!-- contact-success -->
+                <div class="message-success">
+                    Su mensaje ha sido enviado, Gracias! <br>
+                </div>
+
+            </div> <!-- end contact-primary -->
+
+            <div class="contact-secondary">
+                <div class="contact-info">
+
+                    <h3 class="h6 hide-on-fullwidth">Informacíon de Contacto</h3>
+
+                    <div class="cinfo">
+                        <h5>Ubicación</h5>
+                        <p>
+                            Auditorio Marino<br>
+                            Oficina 3, <br>
+                            Puerto Morelos, Mexico
+                        </p>
+                    </div>
+
+                    <div class="cinfo">
+                        <h5>Correo Electronico </h5>
+                        <p>
+                            contact@glintsite.com<br>
+                            info@glintsite.com
+                        </p>
+                    </div>
+
+                    <div class="cinfo">
+                        <h5>Llamanos</h5>
+                        <p>
+                            Phone: (+63) 555 1212<br>
+                            Mobile: (+63) 555 0100<br>
+                            Fax: (+63) 555 0101
+                        </p>
+                    </div>
+
+                    <ul class="contact-social">
+                        <li>
+                            <a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a>
+                        </li>
+                        <li>
+                            <a href="#"><i class="fa fa-instagram" aria-hidden="true"></i></a>
+                        </li>
+                    </ul> <!-- end contact-social -->
+
+                </div> <!-- end contact-info -->
+            </div> <!-- end contact-secondary -->
+
+        </div> <!-- end contact-content -->
+
+    </section> <!-- end s-contact -->
 
 
-    </section> <!-- end s-home -->
 
 
     <!-- footer
@@ -223,3 +302,4 @@
 </body>
 
 </html>
+
